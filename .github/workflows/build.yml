@@ -1,6 +1,6 @@
 on:
   push:
-#     Sequence of patterns matched against refs/tags
+# #    Sequence of patterns matched against refs/tags
     tags:
     - '*' # Tag events
 
